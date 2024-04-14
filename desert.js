@@ -13,7 +13,7 @@ const products = [
     },
     {
         id: 3,
-        image: 'oreo.jpg',
+        image: 'download.jpg',
         title: 'Oreo Float',
         price: 130,
     },
